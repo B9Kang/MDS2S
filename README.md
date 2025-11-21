@@ -1,4 +1,4 @@
-This is official implementation of Self-supervised learning for denoising of multidimensional MRI data (https://doi.org/10.1002/mrm.30197).
+This is official implementation of "Self-supervised learning for denoising of multidimensional MRI data" (https://doi.org/10.1002/mrm.30197).
 
 This repository provides a demonstration of our proposed MD-S2S (multidimensional Self2Self) algorithm.
 
